@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on in my free time [Nand2Tetris](https://github.com/FabianRapp/Nand2Tetris)
 
-- 🏫 I’m currently working on Cub2D as a school project [Cub3D](https://github.com/FabianRapp/cub3D)
+- 🏫 I’m currently working on Cub3D as a school project [Cub3D](https://github.com/FabianRapp/cub3D)
 
 - 🌱 I’m currently learning **Assembly, HDL, computer architecture, rasterization, texture mapping and more**
 
