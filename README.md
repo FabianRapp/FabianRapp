@@ -5,7 +5,7 @@
 
 - 🏫 I’m currently working on Cub3D as a school project [Cub3D](https://github.com/FabianRapp/cub3D)
 
-- 🌱 I’m currently learning **Assembly, HDL, computer architecture, rasterization, texture mapping and more**
+- 🌱 I’m currently learning **embedded programming, verilog for fpga's, rasterization, texture mapping and more**
 
 - 💬 Ask me about **42 school or any of my projects**
 
