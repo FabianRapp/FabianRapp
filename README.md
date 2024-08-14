@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian Rapp</h1>
 <h3 align="center">I am a 42 School student with a passion for low-level programming, driven to explore the foundational elements of technology.</h3>
 
-- 🔭 I’m currently working on in my free time [Nand2Tetris](https://github.com/FabianRapp/Nand2Tetris)
+- 🔭 I’m currently working implementing a custom dram controller as a side project (private repo for now). I want to learn fpga desgin through this aswell as experiment with custom memory timing variations.
 
 - 🏫 I’m currently working on Cub3D as a school project [Cub3D](https://github.com/FabianRapp/cub3D)
 
