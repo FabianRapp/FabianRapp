@@ -22,6 +22,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabianrapp&show_icons=true&locale=en&layout=compact" alt="fabianrapp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabianrapp&show_icons=true&locale=en&layout=compact&langs_count=8" alt="fabianrapp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabianrapp&" alt="fabianrapp" /></p>
